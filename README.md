@@ -1,2 +1,3 @@
 # Breathing-Exersise
-A Breathing Exercise page made to run offline In any device even on phone with a bar to change seconds from 1 to 10 edit as you own it is asthetic also- 
+
+A Simple Modern Looking Breathing Exercise App To Improve your Lungs And Refresh Your Mind. This App Is Made To Run In Html or in Straight Words A Browser. This App Can Be Run Offline. This Features A Box To Identify The Breathing Time And It Also Features A Bar To Change The Time In Breathing-In And Breathing-Out 
